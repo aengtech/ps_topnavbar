@@ -1,0 +1,15 @@
+ul#nav-links {
+    display: -webkit-box;
+}
+
+.icons-nav {
+    display: -webkit-box;
+}
+
+.icon-nav a {
+    padding: 0 5px;
+}
+
+.blue{  
+    background: blue ;
+}
